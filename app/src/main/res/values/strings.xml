@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="CARS">CARS GUESSING GAME</string>
+    <string name="BrandIdentity">Identify the Brand</string>
+    <string name="CarIdentity">Identify the Car</string>
+    <string name="CarBrands">Search Car Brands</string>
+    <string name="BrandTitle1">Identify the Brand</string>
+    <string name="btnShowCar">Next</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="wrongGuess"></string>
+    <string name="rightGuess"></string>
+    <string name="correctAnswer"></string>
+
+    <string-array name="brand">
+        <item>Audi</item>
+        <item>Bentley</item>
+        <item>BMW</item>
+        <item>Fiat</item>
+        <item>Ford</item>
+        <item>Honda</item>
+        <item>Hyundai</item>
+        <item>Jaguar</item>
+        <item>Mercedes Benz</item>
+        <item>Toyota</item>
+    </string-array>
+    <string name="title_activity_identify_the_car">identifyTheCar</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="displayedBrandName">Displayed Brand Name</string>
+    <string name="searchCarBrand">Search Car Brands</string>
+    <string name="searchBrand">Name of a brand</string>
+    <string name="stopSearch">Stop</string>
+
+</resources>
