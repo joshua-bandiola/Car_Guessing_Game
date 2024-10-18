@@ -14,6 +14,8 @@ the user's choice of image. EG, Audi, Bentley and BMW cars are shown, the chosen
 so a tag will be put on that image. A 'BMW' text by retrieving the 'tag' code and the user will have to click on the image
 they think is the 'BMW' 
 
+Game demo is attached in file in zip format.
+
 ## Rationale 
 This project offers a fun and interactive way for car enthusiasts to test their knowledge of car brands and models. 
 It also demonstrates basic principles of game development, such as image manipulation, randomization, 
